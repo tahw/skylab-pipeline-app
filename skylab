@@ -1,0 +1,4 @@
+#!/usr/bin/groovy
+@Library('skylab-pipeline@master')
+
+skylab4k8s(){}
