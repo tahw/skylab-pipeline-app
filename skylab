@@ -2,6 +2,6 @@
 
 @Library('skylab-pipeline@master')
 
-skylab4k8s {
+skylab4k8s() {
     NAME = 'nihao-app'
 }
