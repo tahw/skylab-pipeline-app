@@ -1,8 +1,7 @@
 #!/usr/bin/groovy
-@Library('skylab-pipeline@master')
 
-import Node
+@Library('skylab-pipeline') _
 
-Node(){
-    skylab4k8s(){}
+skylab4k8s {
+    name = 'nihao'
 }
