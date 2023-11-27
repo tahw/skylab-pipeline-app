@@ -2,8 +2,5 @@
 
 @Library('skylab-pipeline@master')
 
-import test
-//skylab4k8s() {
-//    NAME = 'nihao-app'
-//}
-test 'pipeline'
+import skylab4k8s
+skylab4k8s()
