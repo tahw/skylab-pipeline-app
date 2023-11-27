@@ -2,6 +2,6 @@
 
 @Library('skylab-pipeline@master')
 
-import skylab4k8s
+import test
 
-skylab4k8s()
+test 'aaa'
